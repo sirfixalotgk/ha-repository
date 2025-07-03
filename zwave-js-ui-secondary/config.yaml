@@ -1,12 +1,12 @@
-name: Z-Wave JS UI
+name: Z-Wave JS UI Secondary
 version: 4.5.0
 slug: zwavejs2mqtt
 description: Fully configurable Z-Wave JS gateway and control panel
-url: https://github.com/hassio-addons/addon-zwave-js-ui
+url: https://github.com/sirfixalotgk/zwave-js-ui-secondary
 codenotary: codenotary@frenck.dev
 ingress: true
 ingress_stream: true
-panel_title: Z-Wave JS
+panel_title: Z-Wave JS Secondary
 panel_icon: mdi:z-wave
 startup: system
 init: false
@@ -26,7 +26,7 @@ map:
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
 ports:
-  3000/tcp: null
+  3030/tcp: null
 ports_description:
-  3000/tcp: Z-Wave JS communication
+  3030/tcp: Z-Wave JS communication
 image: ghcr.io/hassio-addons/zwave-js-ui/{arch}
