@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Community Add-ons",
+  "name": "Custom HAC Add-ons",
   "url": "https://addons.community",
-  "maintainer": "Franck Nijhof <frenck@addons.community>"
+  "maintainer": "Grant Kelly <sirfixalotgk@github.com>"
 }
