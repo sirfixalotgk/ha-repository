@@ -30,12 +30,12 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/hassio-addons/repository
+https://github.com/sirfixalotgk/ha-repository
 ```
 
 ## Add-ons provided by this repository
 
-### &#10003; [Z-Wave JS UI][addon-zwave-js-ui]
+### &#10003; [Z-Wave JS UI Secondary][addon-zwave-js-ui]
 
 ![Latest Version][zwave-js-ui-version-shield]
 ![Supports armhf Architecture][zwave-js-ui-armhf-shield]
